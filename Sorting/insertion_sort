@@ -1,0 +1,18 @@
+//insertion sort
+//   void insert(int arr[], int i)
+//     {
+//         for(int j=1;j<i;j++){
+//             int temp=arr[j];
+//             int k=j-1;
+//             for(;k>=0;k--){
+//                 if(arr[k]>temp){
+//                     arr[k+1]=arr[k];
+//                 }
+//                 else
+//                 break;
+//             }
+//             arr[k+1]=temp;
+//         }
+//     }
+
+
